@@ -244,7 +244,17 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#325CC0",
             "font_style": null,
             "font_weight": null
@@ -507,7 +517,17 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#71ADE7",
             "font_style": null,
             "font_weight": null
@@ -774,7 +794,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#000000",
             "background_color": "#eeeeee",
             "font_style": null,
@@ -1047,7 +1079,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#000000",
             "background_color": "#eeeeee",
             "font_style": null,
@@ -1312,7 +1356,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#eeeeee",
             "background_color": "#333333",
             "font_style": null,
@@ -1583,7 +1639,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#eeeeee",
             "background_color": "#333333",
             "font_style": null,
@@ -1861,7 +1929,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#000000",
             "background_color": "#dbf1ff",
             "font_style": null,
@@ -2133,7 +2213,19 @@
             "font_style": null,
             "font_weight": null
           },
-          "@function.special.definition": {
+          "constructor.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "enum.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special.definition": {
             "color": "#000000",
             "background_color": "#dbf1ff",
             "font_style": null,
